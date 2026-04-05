@@ -1,4 +1,4 @@
-# Hi, I'm Milad Naderi Beni 👋
+# Hi, I'm Milad Naderi 👋
 
 **Data Science Student | University of Naples Federico II**
 
