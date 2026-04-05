@@ -24,6 +24,7 @@ I'm passionate about solving real-world problems using data, machine learning, a
 | 🕸️ Web Scraping & SQL Pipeline | Automated data collection and storage pipeline | Python, BeautifulSoup, SQL |
 | 🌊 Lake Water Level Forecasting | Time series forecasting of lake water levels | Python, LSTM, Pandas |
 | 🎨 Image Generation (VAE/GAN) | Deep generative models for image synthesis | PyTorch, VAE, GAN |
+| 🛒 Superstore Profit Analysis | Statistical learning & EDA to identify profitability drivers in retail sales | Python, Pandas, Scikit-learn, Seaborn |
 
 ---
 
